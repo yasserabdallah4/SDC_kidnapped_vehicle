@@ -1,9 +1,3 @@
-/**
- * particle_filter.cpp
- *
- * Created on: Dec 12, 2016
- * Author: Tiffany Huang
- */
 
 #include "particle_filter.h"
 
